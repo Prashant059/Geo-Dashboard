@@ -162,12 +162,17 @@ Open: http://localhost:5173
 
 (Attach screenshots in GitHub README or /screenshots folder)
 
-Suggested screenshots:
+ ### Dashboard View
+![Dashboard](screenshot/dashboard.png)
 
-1. Dashboard overview  
-2. Row selected → marker highlighted  
-3. Marker clicked → row highlighted  
-4. Large dataset scroll view  
+ ### Map View
+![Map](screenshot/map.png)
+
+ ### Charts Section
+![Charts](screenshot/chart.png)
+
+  ### Selected_Row
+  ![Selected-Row](screenshot/selectedRow.png)
 
 ---
 
