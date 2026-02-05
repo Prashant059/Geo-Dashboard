@@ -4,7 +4,7 @@ A React-based dashboard that visualizes spatial and tabular geo data with full s
 
 ---
 
-## 🚀 Live Demo (Optional)
+## 🚀 Live Demo
 
 [https://geo-dashboard-gold.vercel.app/]
 
@@ -24,6 +24,7 @@ A React-based dashboard that visualizes spatial and tabular geo data with full s
 ## 📂 Project Structure
 
 src/
+ |
  ├── api/            -> mock API layer  
  ├── components/     -> UI components  
  ├── hooks/          -> custom hooks  
